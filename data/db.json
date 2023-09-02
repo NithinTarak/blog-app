@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Royal Servant",
+      "body": "In this story, an old man sets out to ask an African king to dig some wells in his village when their water runs dry. But first, he teaches the king a lesson in humility by showing him how all people help each other. Read the story to see how the clever old man gets the king to do as he asks!",
+      "author": "Charles Babbage",
+      "id": 1
+    },
+    {
+      "title": "Harrison Bergeron",
+      "body": "The year is 2081, and everyone has been made equal by force. Every person who is superior in any way has been handicapped (something that prevents a person’s full use of their abilities) by the government. Intelligent people are distracted by disturbing noises. Good dancers have to wear weights so that they don’t dance too well. Attractive people wear ugly masks so they don’t look better than anyone else.However, one day there is a rebellion, and everything changes for a brief instant.Technology is always supposed to make us better. But in this case, we see that it can be used to disable our talents. Moreover, the writer shows us how the mindless use of a single value like equality can create more suffering for everyone.",
+      "author": "Kurt Vonnegut",
+      "id": 2
+    },
+    {
+      "title": "Paul Banyant",
+      "body": "The story of Paul Bunyan has been around in the United States for many years. He’s the symbol of American frontier life, showing the ideal strength, work ethic and good morality that Americans work hard to imitate.Paul Bunyan is considered a legend, so stories about him are full of unusual details, such as eating 50 eggs in one day and being so big that he caused an earthquake. It can be a pretty funny read, with characters such as a blue ox and a reversible dog. This version of the story is also meant to be read out loud, so it’s fast-paced and entertaining. This website has an audio recording with the story, which you can play at slower or faster speeds.",
+      "author": "George Grow",
+      "id": 3
+    }
+  ]
+}
